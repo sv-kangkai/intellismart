@@ -1,0 +1,7 @@
+10:34:45.238 [SpringContextShutdownHook] INFO  sys-user - [shutdownSpringSessionValidationScheduler,45] - ====关闭会话验证任务====
+10:34:45.244 [SpringContextShutdownHook] INFO  sys-user - [shutdownAsyncManager,62] - ====关闭后台任务任务线程池====
+10:34:45.245 [SpringContextShutdownHook] INFO  sys-user - [shutdownEhCacheManager,75] - ====关闭缓存====
+15:54:11.244 [schedule-pool-2] INFO  sys-user - [run,109] - [127.0.0.1]内网IP[admin][Success][登录成功]
+15:55:23.195 [SpringContextShutdownHook] INFO  sys-user - [shutdownSpringSessionValidationScheduler,45] - ====关闭会话验证任务====
+15:55:23.197 [SpringContextShutdownHook] INFO  sys-user - [shutdownAsyncManager,62] - ====关闭后台任务任务线程池====
+15:55:23.198 [SpringContextShutdownHook] INFO  sys-user - [shutdownEhCacheManager,75] - ====关闭缓存====

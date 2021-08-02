@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/is-admin/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/is-admin/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/is-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/is-framework/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/is-generator/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/is-generator/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/is-quartz/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/is-quartz/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/is-system/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/is-system/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

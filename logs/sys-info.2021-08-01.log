@@ -1,0 +1,754 @@
+00:08:34.963 [schedule-pool-8] INFO  c.i.f.s.w.s.OnlineWebSessionManager - [validateSessions,100] - invalidation sessions...
+00:08:35.037 [schedule-pool-8] INFO  c.i.f.s.w.s.OnlineWebSessionManager - [validateSessions,165] - Finished invalidation session. No sessions were stopped.
+00:18:34.923 [schedule-pool-13] INFO  c.i.f.s.w.s.OnlineWebSessionManager - [validateSessions,100] - invalidation sessions...
+00:18:34.927 [schedule-pool-13] INFO  c.i.f.s.w.s.OnlineWebSessionManager - [validateSessions,165] - Finished invalidation session. No sessions were stopped.
+00:20:11.788 [SpringContextShutdownHook] INFO  o.q.c.QuartzScheduler - [standby,585] - Scheduler IntelliSmartScheduler_$_VXer0NeXcitEd-moRphiNe.local1627727080072 paused.
+00:20:11.833 [SpringContextShutdownHook] INFO  o.q.c.QuartzScheduler - [shutdown,666] - Scheduler IntelliSmartScheduler_$_VXer0NeXcitEd-moRphiNe.local1627727080072 shutting down.
+00:20:11.833 [SpringContextShutdownHook] INFO  o.q.c.QuartzScheduler - [standby,585] - Scheduler IntelliSmartScheduler_$_VXer0NeXcitEd-moRphiNe.local1627727080072 paused.
+00:20:11.834 [SpringContextShutdownHook] INFO  o.q.c.QuartzScheduler - [shutdown,740] - Scheduler IntelliSmartScheduler_$_VXer0NeXcitEd-moRphiNe.local1627727080072 shutdown complete.
+00:20:11.834 [SpringContextShutdownHook] INFO  sys-user - [shutdownSpringSessionValidationScheduler,45] - ====关闭会话验证任务====
+00:20:11.841 [SpringContextShutdownHook] INFO  sys-user - [shutdownAsyncManager,62] - ====关闭后台任务任务线程池====
+00:20:11.841 [SpringContextShutdownHook] INFO  sys-user - [shutdownEhCacheManager,75] - ====关闭缓存====
+00:24:57.708 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.0.22.Final
+00:24:57.751 [restartedMain] INFO  c.i.IntelliSmartApplication - [logStarting,55] - Starting IntelliSmartApplication on VXer0NeXcitEd-moRphiNe.local with PID 5522 (/Users/kevin/Documents/000-Develop/projects/intellismart/is-admin/target/classes started by kevin in /Users/kevin/Documents/000-Develop/projects/intellismart)
+00:24:57.752 [restartedMain] INFO  c.i.IntelliSmartApplication - [logStartupProfileInfo,655] - The following profiles are active: druid
+00:24:59.828 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-authCache]
+00:25:00.584 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [loginRecordCache]
+00:25:01.546 [restartedMain] INFO  c.a.d.p.DruidDataSource - [init,990] - {dataSource-1} inited
+00:25:01.692 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+00:25:01.695 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+00:25:01.695 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+00:25:01.696 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+00:25:01.696 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+00:25:01.696 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+00:25:01.696 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+00:25:01.697 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+00:25:01.697 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+00:25:01.832 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-userCache]
+00:25:02.215 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-80"]
+00:25:02.215 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+00:25:02.215 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.41]
+00:25:02.298 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+00:25:02.551 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+00:25:02.557 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+00:25:02.564 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+00:25:02.569 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+00:25:02.575 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+00:25:02.581 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+00:25:02.586 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+00:25:02.592 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+00:25:02.598 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+00:25:02.604 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+00:25:02.734 [restartedMain] INFO  o.q.i.StdSchedulerFactory - [instantiate,1220] - Using default implementation for ThreadExecutor
+00:25:02.745 [restartedMain] INFO  o.q.c.SchedulerSignalerImpl - [<init>,61] - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+00:25:02.746 [restartedMain] INFO  o.q.c.QuartzScheduler - [<init>,229] - Quartz Scheduler v.2.3.2 created.
+00:25:02.752 [restartedMain] INFO  o.q.c.QuartzScheduler - [initialize,294] - Scheduler meta-data: Quartz Scheduler (v2.3.2) 'IntelliSmartScheduler' with instanceId 'VXer0NeXcitEd-moRphiNe.local1627748702736'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 20 threads.
+  Using job-store 'org.springframework.scheduling.quartz.LocalDataSourceJobStore' - which supports persistence. and is clustered.
+
+00:25:02.752 [restartedMain] INFO  o.q.i.StdSchedulerFactory - [instantiate,1374] - Quartz scheduler 'IntelliSmartScheduler' initialized from an externally provided properties instance.
+00:25:02.753 [restartedMain] INFO  o.q.i.StdSchedulerFactory - [instantiate,1378] - Quartz scheduler version: 2.3.2
+00:25:02.754 [restartedMain] INFO  o.q.c.QuartzScheduler - [setJobFactory,2293] - JobFactory set to: org.springframework.scheduling.quartz.AdaptableJobFactory@1c223983
+00:25:04.556 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-80"]
+00:25:04.581 [restartedMain] INFO  c.i.IntelliSmartApplication - [logStarted,61] - Started IntelliSmartApplication in 7.301 seconds (JVM running for 8.283)
+00:25:05.604 [Quartz Scheduler [IntelliSmartScheduler]] INFO  o.q.c.QuartzScheduler - [start,547] - Scheduler IntelliSmartScheduler_$_VXer0NeXcitEd-moRphiNe.local1627748702736 started.
+10:12:17.265 [SpringContextShutdownHook] INFO  o.q.c.QuartzScheduler - [standby,585] - Scheduler IntelliSmartScheduler_$_VXer0NeXcitEd-moRphiNe.local1627748702736 paused.
+10:12:17.274 [SpringContextShutdownHook] INFO  o.q.c.QuartzScheduler - [shutdown,666] - Scheduler IntelliSmartScheduler_$_VXer0NeXcitEd-moRphiNe.local1627748702736 shutting down.
+10:12:17.274 [SpringContextShutdownHook] INFO  o.q.c.QuartzScheduler - [standby,585] - Scheduler IntelliSmartScheduler_$_VXer0NeXcitEd-moRphiNe.local1627748702736 paused.
+10:12:17.275 [SpringContextShutdownHook] INFO  o.q.c.QuartzScheduler - [shutdown,740] - Scheduler IntelliSmartScheduler_$_VXer0NeXcitEd-moRphiNe.local1627748702736 shutdown complete.
+10:12:17.275 [SpringContextShutdownHook] INFO  sys-user - [shutdownAsyncManager,62] - ====关闭后台任务任务线程池====
+10:12:17.277 [SpringContextShutdownHook] INFO  sys-user - [shutdownEhCacheManager,75] - ====关闭缓存====
+10:12:17.299 [SpringContextShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,2043] - {dataSource-1} closing ...
+10:12:17.301 [SpringContextShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,2116] - {dataSource-1} closed
+11:20:46.952 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.0.22.Final
+11:20:46.977 [restartedMain] INFO  c.i.IntelliSmartApplication - [logStarting,55] - Starting IntelliSmartApplication on VXer0NeXcitEd-moRphiNe.local with PID 1610 (/Users/kevin/Documents/000-Develop/projects/intellismart/is-admin/target/classes started by kevin in /Users/kevin/Documents/000-Develop/projects/intellismart)
+11:20:46.978 [restartedMain] INFO  c.i.IntelliSmartApplication - [logStartupProfileInfo,655] - The following profiles are active: druid
+11:20:48.925 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-authCache]
+11:20:49.656 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [loginRecordCache]
+11:20:49.825 [restartedMain] INFO  c.a.d.p.DruidDataSource - [init,990] - {dataSource-1} inited
+11:20:49.829 [Druid-ConnectionPool-Create-448590060] INFO  c.a.d.p.DruidAbstractDataSource - [setFailContinuous,1804] - {dataSource-1} failContinuous is true
+11:20:49.832 [restartedMain] INFO  c.a.d.p.DruidDataSource - [close,2043] - {dataSource-1} closing ...
+11:20:49.833 [restartedMain] INFO  c.a.d.p.DruidDataSource - [close,2116] - {dataSource-1} closed
+11:21:14.249 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.0.22.Final
+11:21:14.268 [restartedMain] INFO  c.i.IntelliSmartApplication - [logStarting,55] - Starting IntelliSmartApplication on VXer0NeXcitEd-moRphiNe.local with PID 1665 (/Users/kevin/Documents/000-Develop/projects/intellismart/is-admin/target/classes started by kevin in /Users/kevin/Documents/000-Develop/projects/intellismart)
+11:21:14.269 [restartedMain] INFO  c.i.IntelliSmartApplication - [logStartupProfileInfo,655] - The following profiles are active: druid
+11:21:15.974 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-authCache]
+11:21:16.622 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [loginRecordCache]
+11:21:17.577 [restartedMain] INFO  c.a.d.p.DruidDataSource - [init,990] - {dataSource-1} inited
+11:21:17.723 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+11:21:17.726 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+11:21:17.727 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+11:21:17.727 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+11:21:17.727 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+11:21:17.727 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+11:21:17.728 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+11:21:17.728 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+11:21:17.728 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+11:21:17.838 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-userCache]
+11:21:18.172 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-80"]
+11:21:18.173 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+11:21:18.173 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.41]
+11:21:18.255 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+11:21:18.528 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+11:21:18.533 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+11:21:18.537 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+11:21:18.542 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+11:21:18.546 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+11:21:18.551 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+11:21:18.555 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+11:21:18.560 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+11:21:18.565 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+11:21:18.569 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+11:21:18.709 [restartedMain] INFO  o.q.i.StdSchedulerFactory - [instantiate,1220] - Using default implementation for ThreadExecutor
+11:21:18.725 [restartedMain] INFO  o.q.c.SchedulerSignalerImpl - [<init>,61] - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+11:21:18.725 [restartedMain] INFO  o.q.c.QuartzScheduler - [<init>,229] - Quartz Scheduler v.2.3.2 created.
+11:21:18.733 [restartedMain] INFO  o.q.c.QuartzScheduler - [initialize,294] - Scheduler meta-data: Quartz Scheduler (v2.3.2) 'IntelliSmartScheduler' with instanceId 'VXer0NeXcitEd-moRphiNe.local1627788078712'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 20 threads.
+  Using job-store 'org.springframework.scheduling.quartz.LocalDataSourceJobStore' - which supports persistence. and is clustered.
+
+11:21:18.733 [restartedMain] INFO  o.q.i.StdSchedulerFactory - [instantiate,1374] - Quartz scheduler 'IntelliSmartScheduler' initialized from an externally provided properties instance.
+11:21:18.733 [restartedMain] INFO  o.q.i.StdSchedulerFactory - [instantiate,1378] - Quartz scheduler version: 2.3.2
+11:21:18.735 [restartedMain] INFO  o.q.c.QuartzScheduler - [setJobFactory,2293] - JobFactory set to: org.springframework.scheduling.quartz.AdaptableJobFactory@320a5e8e
+11:21:20.490 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-80"]
+11:21:20.515 [restartedMain] INFO  c.i.IntelliSmartApplication - [logStarted,61] - Started IntelliSmartApplication in 6.565 seconds (JVM running for 7.28)
+11:21:21.551 [Quartz Scheduler [IntelliSmartScheduler]] INFO  o.q.c.QuartzScheduler - [start,547] - Scheduler IntelliSmartScheduler_$_VXer0NeXcitEd-moRphiNe.local1627788078712 started.
+11:22:05.342 [http-nio-80-exec-1] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+11:22:05.372 [http-nio-80-exec-1] INFO  o.a.s.s.m.AbstractValidatingSessionManager - [enableSessionValidation,233] - Enabling session validation scheduler...
+11:22:05.396 [http-nio-80-exec-1] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [shiro-activeSessionCache]
+11:22:05.693 [http-nio-80-exec-2] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+11:22:06.374 [schedule-pool-1] INFO  c.i.f.s.w.s.OnlineWebSessionManager - [validateSessions,100] - invalidation sessions...
+11:22:06.388 [schedule-pool-1] INFO  c.i.f.s.w.s.OnlineWebSessionManager - [validateSessions,165] - Finished invalidation session. No sessions were stopped.
+11:22:12.319 [schedule-pool-2] INFO  sys-user - [run,109] - [127.0.0.1]内网IP[admin][Success][登录成功]
+11:22:12.412 [http-nio-80-exec-24] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+11:22:12.412 [http-nio-80-exec-24] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+11:22:12.413 [http-nio-80-exec-24] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+11:22:12.413 [http-nio-80-exec-24] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+11:22:12.414 [http-nio-80-exec-24] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+11:22:12.415 [http-nio-80-exec-24] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+11:22:53.532 [http-nio-80-exec-19] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+11:22:53.551 [http-nio-80-exec-19] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+11:22:57.948 [http-nio-80-exec-18] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+11:23:08.088 [SpringContextShutdownHook] INFO  o.q.c.QuartzScheduler - [standby,585] - Scheduler IntelliSmartScheduler_$_VXer0NeXcitEd-moRphiNe.local1627788078712 paused.
+11:23:08.099 [SpringContextShutdownHook] INFO  o.q.c.QuartzScheduler - [shutdown,666] - Scheduler IntelliSmartScheduler_$_VXer0NeXcitEd-moRphiNe.local1627788078712 shutting down.
+11:23:08.100 [SpringContextShutdownHook] INFO  o.q.c.QuartzScheduler - [standby,585] - Scheduler IntelliSmartScheduler_$_VXer0NeXcitEd-moRphiNe.local1627788078712 paused.
+11:23:08.100 [SpringContextShutdownHook] INFO  o.q.c.QuartzScheduler - [shutdown,740] - Scheduler IntelliSmartScheduler_$_VXer0NeXcitEd-moRphiNe.local1627788078712 shutdown complete.
+11:23:08.100 [SpringContextShutdownHook] INFO  sys-user - [shutdownSpringSessionValidationScheduler,45] - ====关闭会话验证任务====
+11:23:08.102 [SpringContextShutdownHook] INFO  sys-user - [shutdownAsyncManager,62] - ====关闭后台任务任务线程池====
+11:23:08.102 [SpringContextShutdownHook] INFO  sys-user - [shutdownEhCacheManager,75] - ====关闭缓存====
+11:23:08.117 [SpringContextShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,2043] - {dataSource-1} closing ...
+11:23:08.124 [SpringContextShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,2116] - {dataSource-1} closed
+11:23:29.246 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.0.22.Final
+11:23:29.263 [restartedMain] INFO  c.i.IntelliSmartApplication - [logStarting,55] - Starting IntelliSmartApplication on VXer0NeXcitEd-moRphiNe.local with PID 1706 (/Users/kevin/Documents/000-Develop/projects/intellismart/is-admin/target/classes started by kevin in /Users/kevin/Documents/000-Develop/projects/intellismart)
+11:23:29.263 [restartedMain] INFO  c.i.IntelliSmartApplication - [logStartupProfileInfo,655] - The following profiles are active: druid
+11:23:30.816 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-authCache]
+11:23:31.442 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [loginRecordCache]
+11:23:32.099 [restartedMain] INFO  c.a.d.p.DruidDataSource - [init,990] - {dataSource-1} inited
+11:23:32.227 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+11:23:32.229 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+11:23:32.230 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+11:23:32.230 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+11:23:32.230 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+11:23:32.231 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+11:23:32.231 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+11:23:32.231 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+11:23:32.231 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+11:23:32.338 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-userCache]
+11:23:32.669 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-80"]
+11:23:32.669 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+11:23:32.670 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.41]
+11:23:32.751 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+11:23:32.980 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+11:23:32.985 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+11:23:32.990 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+11:23:32.994 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+11:23:32.999 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+11:23:33.003 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+11:23:33.007 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+11:23:33.013 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+11:23:33.017 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+11:23:33.021 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+11:23:33.150 [restartedMain] INFO  o.q.i.StdSchedulerFactory - [instantiate,1220] - Using default implementation for ThreadExecutor
+11:23:33.165 [restartedMain] INFO  o.q.c.SchedulerSignalerImpl - [<init>,61] - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+11:23:33.165 [restartedMain] INFO  o.q.c.QuartzScheduler - [<init>,229] - Quartz Scheduler v.2.3.2 created.
+11:23:33.172 [restartedMain] INFO  o.q.c.QuartzScheduler - [initialize,294] - Scheduler meta-data: Quartz Scheduler (v2.3.2) 'IntelliSmartScheduler' with instanceId 'VXer0NeXcitEd-moRphiNe.local1627788213151'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 20 threads.
+  Using job-store 'org.springframework.scheduling.quartz.LocalDataSourceJobStore' - which supports persistence. and is clustered.
+
+11:23:33.172 [restartedMain] INFO  o.q.i.StdSchedulerFactory - [instantiate,1374] - Quartz scheduler 'IntelliSmartScheduler' initialized from an externally provided properties instance.
+11:23:33.172 [restartedMain] INFO  o.q.i.StdSchedulerFactory - [instantiate,1378] - Quartz scheduler version: 2.3.2
+11:23:33.174 [restartedMain] INFO  o.q.c.QuartzScheduler - [setJobFactory,2293] - JobFactory set to: org.springframework.scheduling.quartz.AdaptableJobFactory@1c223983
+11:23:34.871 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-80"]
+11:23:34.898 [restartedMain] INFO  c.i.IntelliSmartApplication - [logStarted,61] - Started IntelliSmartApplication in 6.023 seconds (JVM running for 7.057)
+11:23:35.923 [Quartz Scheduler [IntelliSmartScheduler]] INFO  o.q.c.QuartzScheduler - [start,547] - Scheduler IntelliSmartScheduler_$_VXer0NeXcitEd-moRphiNe.local1627788213151 started.
+11:23:38.378 [http-nio-80-exec-1] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+11:23:38.405 [http-nio-80-exec-1] INFO  o.a.s.s.m.AbstractValidatingSessionManager - [enableSessionValidation,233] - Enabling session validation scheduler...
+11:23:38.412 [http-nio-80-exec-1] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [shiro-activeSessionCache]
+11:23:38.759 [http-nio-80-exec-2] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+11:23:39.410 [schedule-pool-1] INFO  c.i.f.s.w.s.OnlineWebSessionManager - [validateSessions,100] - invalidation sessions...
+11:23:39.417 [schedule-pool-1] INFO  c.i.f.s.w.s.OnlineWebSessionManager - [validateSessions,165] - Finished invalidation session. No sessions were stopped.
+11:23:43.540 [schedule-pool-2] INFO  sys-user - [run,109] - [127.0.0.1]内网IP[admin][Success][登录成功]
+11:23:43.584 [http-nio-80-exec-24] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+11:23:43.584 [http-nio-80-exec-24] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+11:23:43.585 [http-nio-80-exec-24] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+11:23:43.585 [http-nio-80-exec-24] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+11:23:43.585 [http-nio-80-exec-24] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+11:23:43.585 [http-nio-80-exec-24] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+11:29:47.518 [http-nio-80-exec-17] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+11:29:49.602 [http-nio-80-exec-24] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+11:30:04.813 [http-nio-80-exec-24] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+11:30:04.813 [http-nio-80-exec-24] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+11:30:04.813 [http-nio-80-exec-24] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+11:30:04.813 [http-nio-80-exec-24] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+11:30:04.814 [http-nio-80-exec-24] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+11:30:04.814 [http-nio-80-exec-24] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+11:30:05.135 [http-nio-80-exec-30] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+11:30:18.038 [http-nio-80-exec-25] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+11:30:55.308 [http-nio-80-exec-25] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+11:30:55.309 [http-nio-80-exec-25] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+11:30:55.309 [http-nio-80-exec-25] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+11:30:55.310 [http-nio-80-exec-25] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+11:30:55.310 [http-nio-80-exec-25] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+11:30:55.310 [http-nio-80-exec-25] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+11:30:55.680 [http-nio-80-exec-22] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+11:33:39.387 [schedule-pool-4] INFO  c.i.f.s.w.s.OnlineWebSessionManager - [validateSessions,100] - invalidation sessions...
+11:33:39.392 [schedule-pool-4] INFO  c.i.f.s.w.s.OnlineWebSessionManager - [validateSessions,165] - Finished invalidation session. No sessions were stopped.
+11:34:25.907 [http-nio-80-exec-17] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+11:43:39.378 [schedule-pool-2] INFO  c.i.f.s.w.s.OnlineWebSessionManager - [validateSessions,100] - invalidation sessions...
+11:43:39.392 [schedule-pool-2] INFO  c.i.f.s.w.s.OnlineWebSessionManager - [validateSessions,165] - Finished invalidation session. No sessions were stopped.
+11:51:24.773 [SpringContextShutdownHook] INFO  o.q.c.QuartzScheduler - [standby,585] - Scheduler IntelliSmartScheduler_$_VXer0NeXcitEd-moRphiNe.local1627788213151 paused.
+11:51:24.799 [SpringContextShutdownHook] INFO  o.q.c.QuartzScheduler - [shutdown,666] - Scheduler IntelliSmartScheduler_$_VXer0NeXcitEd-moRphiNe.local1627788213151 shutting down.
+11:51:24.799 [SpringContextShutdownHook] INFO  o.q.c.QuartzScheduler - [standby,585] - Scheduler IntelliSmartScheduler_$_VXer0NeXcitEd-moRphiNe.local1627788213151 paused.
+11:51:24.800 [SpringContextShutdownHook] INFO  o.q.c.QuartzScheduler - [shutdown,740] - Scheduler IntelliSmartScheduler_$_VXer0NeXcitEd-moRphiNe.local1627788213151 shutdown complete.
+11:51:24.800 [SpringContextShutdownHook] INFO  sys-user - [shutdownSpringSessionValidationScheduler,45] - ====关闭会话验证任务====
+11:51:24.801 [SpringContextShutdownHook] INFO  sys-user - [shutdownAsyncManager,62] - ====关闭后台任务任务线程池====
+11:51:24.802 [SpringContextShutdownHook] INFO  sys-user - [shutdownEhCacheManager,75] - ====关闭缓存====
+11:51:24.815 [SpringContextShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,2043] - {dataSource-1} closing ...
+11:51:24.818 [SpringContextShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,2116] - {dataSource-1} closed
+11:58:11.689 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.0.22.Final
+11:58:11.702 [restartedMain] INFO  c.i.IntelliSmartApplication - [logStarting,55] - Starting IntelliSmartApplication on VXer0NeXcitEd-moRphiNe.local with PID 2244 (/Users/kevin/Documents/000-Develop/projects/intellismart/is-admin/target/classes started by kevin in /Users/kevin/Documents/000-Develop/projects/intellismart)
+11:58:11.702 [restartedMain] INFO  c.i.IntelliSmartApplication - [logStartupProfileInfo,655] - The following profiles are active: druid
+11:58:13.312 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-authCache]
+11:58:13.967 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [loginRecordCache]
+11:58:14.645 [restartedMain] INFO  c.a.d.p.DruidDataSource - [init,990] - {dataSource-1} inited
+11:58:14.785 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+11:58:14.788 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+11:58:14.789 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+11:58:14.789 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+11:58:14.789 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+11:58:14.789 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+11:58:14.790 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+11:58:14.790 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+11:58:14.790 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+11:58:14.891 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-userCache]
+11:58:15.211 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-80"]
+11:58:15.211 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+11:58:15.212 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.41]
+11:58:15.289 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+11:58:15.537 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+11:58:15.542 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+11:58:15.547 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+11:58:15.551 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+11:58:15.555 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+11:58:15.560 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+11:58:15.564 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+11:58:15.570 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+11:58:15.575 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+11:58:15.579 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+11:58:15.716 [restartedMain] INFO  o.q.i.StdSchedulerFactory - [instantiate,1220] - Using default implementation for ThreadExecutor
+11:58:15.731 [restartedMain] INFO  o.q.c.SchedulerSignalerImpl - [<init>,61] - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+11:58:15.731 [restartedMain] INFO  o.q.c.QuartzScheduler - [<init>,229] - Quartz Scheduler v.2.3.2 created.
+11:58:15.738 [restartedMain] INFO  o.q.c.QuartzScheduler - [initialize,294] - Scheduler meta-data: Quartz Scheduler (v2.3.2) 'IntelliSmartScheduler' with instanceId 'VXer0NeXcitEd-moRphiNe.local1627790295717'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 20 threads.
+  Using job-store 'org.springframework.scheduling.quartz.LocalDataSourceJobStore' - which supports persistence. and is clustered.
+
+11:58:15.738 [restartedMain] INFO  o.q.i.StdSchedulerFactory - [instantiate,1374] - Quartz scheduler 'IntelliSmartScheduler' initialized from an externally provided properties instance.
+11:58:15.738 [restartedMain] INFO  o.q.i.StdSchedulerFactory - [instantiate,1378] - Quartz scheduler version: 2.3.2
+11:58:15.740 [restartedMain] INFO  o.q.c.QuartzScheduler - [setJobFactory,2293] - JobFactory set to: org.springframework.scheduling.quartz.AdaptableJobFactory@328b3cff
+11:58:17.457 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-80"]
+11:58:17.486 [restartedMain] INFO  c.i.IntelliSmartApplication - [logStarted,61] - Started IntelliSmartApplication in 6.181 seconds (JVM running for 7.18)
+11:58:18.495 [Quartz Scheduler [IntelliSmartScheduler]] INFO  o.q.c.QuartzScheduler - [start,547] - Scheduler IntelliSmartScheduler_$_VXer0NeXcitEd-moRphiNe.local1627790295717 started.
+12:03:07.729 [http-nio-80-exec-1] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+12:03:07.759 [http-nio-80-exec-1] INFO  o.a.s.s.m.AbstractValidatingSessionManager - [enableSessionValidation,233] - Enabling session validation scheduler...
+12:03:07.766 [http-nio-80-exec-1] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [shiro-activeSessionCache]
+12:03:08.122 [http-nio-80-exec-2] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+12:03:08.761 [schedule-pool-1] INFO  c.i.f.s.w.s.OnlineWebSessionManager - [validateSessions,100] - invalidation sessions...
+12:03:08.770 [schedule-pool-1] INFO  c.i.f.s.w.s.OnlineWebSessionManager - [validateSessions,165] - Finished invalidation session. No sessions were stopped.
+12:03:13.291 [schedule-pool-2] INFO  sys-user - [run,109] - [127.0.0.1]内网IP[admin][Success][登录成功]
+12:03:13.343 [http-nio-80-exec-24] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+12:03:13.344 [http-nio-80-exec-24] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+12:03:13.344 [http-nio-80-exec-24] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+12:03:13.345 [http-nio-80-exec-24] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+12:03:13.346 [http-nio-80-exec-24] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+12:03:13.346 [http-nio-80-exec-24] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+12:03:17.857 [http-nio-80-exec-27] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+12:03:17.873 [http-nio-80-exec-27] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+12:03:21.986 [http-nio-80-exec-22] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+12:08:31.668 [SpringContextShutdownHook] INFO  o.q.c.QuartzScheduler - [standby,585] - Scheduler IntelliSmartScheduler_$_VXer0NeXcitEd-moRphiNe.local1627790295717 paused.
+12:08:31.675 [SpringContextShutdownHook] INFO  o.q.c.QuartzScheduler - [shutdown,666] - Scheduler IntelliSmartScheduler_$_VXer0NeXcitEd-moRphiNe.local1627790295717 shutting down.
+12:08:31.675 [SpringContextShutdownHook] INFO  o.q.c.QuartzScheduler - [standby,585] - Scheduler IntelliSmartScheduler_$_VXer0NeXcitEd-moRphiNe.local1627790295717 paused.
+12:08:31.677 [SpringContextShutdownHook] INFO  o.q.c.QuartzScheduler - [shutdown,740] - Scheduler IntelliSmartScheduler_$_VXer0NeXcitEd-moRphiNe.local1627790295717 shutdown complete.
+12:08:31.677 [SpringContextShutdownHook] INFO  sys-user - [shutdownSpringSessionValidationScheduler,45] - ====关闭会话验证任务====
+12:08:31.679 [SpringContextShutdownHook] INFO  sys-user - [shutdownAsyncManager,62] - ====关闭后台任务任务线程池====
+12:08:31.680 [SpringContextShutdownHook] INFO  sys-user - [shutdownEhCacheManager,75] - ====关闭缓存====
+12:08:31.692 [SpringContextShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,2043] - {dataSource-1} closing ...
+12:08:31.695 [SpringContextShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,2116] - {dataSource-1} closed
+12:08:37.676 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.0.22.Final
+12:08:37.691 [restartedMain] INFO  c.i.IntelliSmartApplication - [logStarting,55] - Starting IntelliSmartApplication on VXer0NeXcitEd-moRphiNe.local with PID 2345 (/Users/kevin/Documents/000-Develop/projects/intellismart/is-admin/target/classes started by kevin in /Users/kevin/Documents/000-Develop/projects/intellismart)
+12:08:37.692 [restartedMain] INFO  c.i.IntelliSmartApplication - [logStartupProfileInfo,655] - The following profiles are active: druid
+12:08:39.329 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-authCache]
+12:08:39.994 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [loginRecordCache]
+12:08:40.667 [restartedMain] INFO  c.a.d.p.DruidDataSource - [init,990] - {dataSource-1} inited
+12:08:40.808 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+12:08:40.811 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+12:08:40.811 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+12:08:40.812 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+12:08:40.812 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+12:08:40.812 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+12:08:40.813 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+12:08:40.813 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+12:08:40.813 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+12:08:40.916 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-userCache]
+12:08:41.253 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-80"]
+12:08:41.254 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+12:08:41.254 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.41]
+12:08:41.326 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+12:08:41.590 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+12:08:41.598 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+12:08:41.605 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+12:08:41.612 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+12:08:41.619 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+12:08:41.627 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+12:08:41.636 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+12:08:41.647 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+12:08:41.660 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+12:08:41.669 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+12:08:41.836 [restartedMain] INFO  o.q.i.StdSchedulerFactory - [instantiate,1220] - Using default implementation for ThreadExecutor
+12:08:41.854 [restartedMain] INFO  o.q.c.SchedulerSignalerImpl - [<init>,61] - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+12:08:41.855 [restartedMain] INFO  o.q.c.QuartzScheduler - [<init>,229] - Quartz Scheduler v.2.3.2 created.
+12:08:41.863 [restartedMain] INFO  o.q.c.QuartzScheduler - [initialize,294] - Scheduler meta-data: Quartz Scheduler (v2.3.2) 'IntelliSmartScheduler' with instanceId 'VXer0NeXcitEd-moRphiNe.local1627790921838'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 20 threads.
+  Using job-store 'org.springframework.scheduling.quartz.LocalDataSourceJobStore' - which supports persistence. and is clustered.
+
+12:08:41.863 [restartedMain] INFO  o.q.i.StdSchedulerFactory - [instantiate,1374] - Quartz scheduler 'IntelliSmartScheduler' initialized from an externally provided properties instance.
+12:08:41.864 [restartedMain] INFO  o.q.i.StdSchedulerFactory - [instantiate,1378] - Quartz scheduler version: 2.3.2
+12:08:41.866 [restartedMain] INFO  o.q.c.QuartzScheduler - [setJobFactory,2293] - JobFactory set to: org.springframework.scheduling.quartz.AdaptableJobFactory@1141bda3
+12:08:43.612 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-80"]
+12:08:43.645 [restartedMain] INFO  c.i.IntelliSmartApplication - [logStarted,61] - Started IntelliSmartApplication in 6.282 seconds (JVM running for 7.33)
+12:08:44.647 [Quartz Scheduler [IntelliSmartScheduler]] INFO  o.q.c.QuartzScheduler - [start,547] - Scheduler IntelliSmartScheduler_$_VXer0NeXcitEd-moRphiNe.local1627790921838 started.
+12:08:49.285 [http-nio-80-exec-1] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+12:08:49.314 [http-nio-80-exec-1] INFO  o.a.s.s.m.AbstractValidatingSessionManager - [enableSessionValidation,233] - Enabling session validation scheduler...
+12:08:49.321 [http-nio-80-exec-1] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [shiro-activeSessionCache]
+12:08:49.660 [http-nio-80-exec-2] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+12:08:50.320 [schedule-pool-1] INFO  c.i.f.s.w.s.OnlineWebSessionManager - [validateSessions,100] - invalidation sessions...
+12:08:50.330 [schedule-pool-1] INFO  c.i.f.s.w.s.OnlineWebSessionManager - [validateSessions,165] - Finished invalidation session. No sessions were stopped.
+12:08:55.313 [schedule-pool-2] INFO  sys-user - [run,109] - [127.0.0.1]内网IP[admin][Success][登录成功]
+12:08:55.384 [http-nio-80-exec-23] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+12:08:55.385 [http-nio-80-exec-23] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+12:08:55.385 [http-nio-80-exec-23] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+12:08:55.385 [http-nio-80-exec-23] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+12:08:55.385 [http-nio-80-exec-23] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+12:08:55.386 [http-nio-80-exec-23] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+12:12:56.760 [SpringContextShutdownHook] INFO  o.q.c.QuartzScheduler - [standby,585] - Scheduler IntelliSmartScheduler_$_VXer0NeXcitEd-moRphiNe.local1627790921838 paused.
+12:12:56.789 [SpringContextShutdownHook] INFO  o.q.c.QuartzScheduler - [shutdown,666] - Scheduler IntelliSmartScheduler_$_VXer0NeXcitEd-moRphiNe.local1627790921838 shutting down.
+12:12:56.789 [SpringContextShutdownHook] INFO  o.q.c.QuartzScheduler - [standby,585] - Scheduler IntelliSmartScheduler_$_VXer0NeXcitEd-moRphiNe.local1627790921838 paused.
+12:12:56.789 [SpringContextShutdownHook] INFO  o.q.c.QuartzScheduler - [shutdown,740] - Scheduler IntelliSmartScheduler_$_VXer0NeXcitEd-moRphiNe.local1627790921838 shutdown complete.
+12:12:56.790 [SpringContextShutdownHook] INFO  sys-user - [shutdownSpringSessionValidationScheduler,45] - ====关闭会话验证任务====
+12:12:56.790 [SpringContextShutdownHook] INFO  sys-user - [shutdownAsyncManager,62] - ====关闭后台任务任务线程池====
+12:12:56.791 [SpringContextShutdownHook] INFO  sys-user - [shutdownEhCacheManager,75] - ====关闭缓存====
+12:12:56.801 [SpringContextShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,2043] - {dataSource-1} closing ...
+12:12:56.805 [SpringContextShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,2116] - {dataSource-1} closed
+12:13:15.608 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.0.22.Final
+12:13:15.626 [restartedMain] INFO  c.i.IntelliSmartApplication - [logStarting,55] - Starting IntelliSmartApplication on VXer0NeXcitEd-moRphiNe.local with PID 2419 (/Users/kevin/Documents/000-Develop/projects/intellismart/is-admin/target/classes started by kevin in /Users/kevin/Documents/000-Develop/projects/intellismart)
+12:13:15.627 [restartedMain] INFO  c.i.IntelliSmartApplication - [logStartupProfileInfo,655] - The following profiles are active: druid
+12:13:17.235 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-authCache]
+12:13:17.890 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [loginRecordCache]
+12:13:18.577 [restartedMain] INFO  c.a.d.p.DruidDataSource - [init,990] - {dataSource-1} inited
+12:13:18.714 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+12:13:18.717 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+12:13:18.718 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+12:13:18.718 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+12:13:18.718 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+12:13:18.719 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+12:13:18.719 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+12:13:18.719 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+12:13:18.719 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+12:13:18.817 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-userCache]
+12:13:19.148 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-80"]
+12:13:19.149 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+12:13:19.149 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.41]
+12:13:19.231 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+12:13:19.475 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+12:13:19.479 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+12:13:19.484 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+12:13:19.488 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+12:13:19.493 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+12:13:19.498 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+12:13:19.503 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+12:13:19.509 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+12:13:19.515 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+12:13:19.520 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+12:13:19.655 [restartedMain] INFO  o.q.i.StdSchedulerFactory - [instantiate,1220] - Using default implementation for ThreadExecutor
+12:13:19.670 [restartedMain] INFO  o.q.c.SchedulerSignalerImpl - [<init>,61] - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+12:13:19.670 [restartedMain] INFO  o.q.c.QuartzScheduler - [<init>,229] - Quartz Scheduler v.2.3.2 created.
+12:13:19.679 [restartedMain] INFO  o.q.c.QuartzScheduler - [initialize,294] - Scheduler meta-data: Quartz Scheduler (v2.3.2) 'IntelliSmartScheduler' with instanceId 'VXer0NeXcitEd-moRphiNe.local1627791199657'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 20 threads.
+  Using job-store 'org.springframework.scheduling.quartz.LocalDataSourceJobStore' - which supports persistence. and is clustered.
+
+12:13:19.679 [restartedMain] INFO  o.q.i.StdSchedulerFactory - [instantiate,1374] - Quartz scheduler 'IntelliSmartScheduler' initialized from an externally provided properties instance.
+12:13:19.680 [restartedMain] INFO  o.q.i.StdSchedulerFactory - [instantiate,1378] - Quartz scheduler version: 2.3.2
+12:13:19.681 [restartedMain] INFO  o.q.c.QuartzScheduler - [setJobFactory,2293] - JobFactory set to: org.springframework.scheduling.quartz.AdaptableJobFactory@68a4d94e
+12:13:21.406 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-80"]
+12:13:21.429 [restartedMain] INFO  c.i.IntelliSmartApplication - [logStarted,61] - Started IntelliSmartApplication in 6.134 seconds (JVM running for 7.015)
+12:13:22.454 [Quartz Scheduler [IntelliSmartScheduler]] INFO  o.q.c.QuartzScheduler - [start,547] - Scheduler IntelliSmartScheduler_$_VXer0NeXcitEd-moRphiNe.local1627791199657 started.
+12:13:27.954 [http-nio-80-exec-1] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+12:13:27.983 [http-nio-80-exec-1] INFO  o.a.s.s.m.AbstractValidatingSessionManager - [enableSessionValidation,233] - Enabling session validation scheduler...
+12:13:27.991 [http-nio-80-exec-1] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [shiro-activeSessionCache]
+12:13:28.318 [http-nio-80-exec-2] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+12:13:28.985 [schedule-pool-1] INFO  c.i.f.s.w.s.OnlineWebSessionManager - [validateSessions,100] - invalidation sessions...
+12:13:28.995 [schedule-pool-1] INFO  c.i.f.s.w.s.OnlineWebSessionManager - [validateSessions,165] - Finished invalidation session. No sessions were stopped.
+12:13:32.734 [schedule-pool-2] INFO  sys-user - [run,109] - [127.0.0.1]内网IP[admin][Success][登录成功]
+12:13:32.815 [http-nio-80-exec-23] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+12:13:32.815 [http-nio-80-exec-23] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+12:13:32.816 [http-nio-80-exec-23] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+12:13:32.816 [http-nio-80-exec-23] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+12:13:32.817 [http-nio-80-exec-23] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+12:13:32.817 [http-nio-80-exec-23] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+12:23:28.994 [schedule-pool-1] INFO  c.i.f.s.w.s.OnlineWebSessionManager - [validateSessions,100] - invalidation sessions...
+12:23:29.006 [schedule-pool-1] INFO  c.i.f.s.w.s.OnlineWebSessionManager - [validateSessions,165] - Finished invalidation session. No sessions were stopped.
+12:33:28.979 [schedule-pool-2] INFO  c.i.f.s.w.s.OnlineWebSessionManager - [validateSessions,100] - invalidation sessions...
+12:33:28.987 [schedule-pool-2] INFO  c.i.f.s.w.s.OnlineWebSessionManager - [validateSessions,165] - Finished invalidation session. No sessions were stopped.
+12:38:12.764 [SpringContextShutdownHook] INFO  o.q.c.QuartzScheduler - [standby,585] - Scheduler IntelliSmartScheduler_$_VXer0NeXcitEd-moRphiNe.local1627791199657 paused.
+12:38:12.773 [SpringContextShutdownHook] INFO  o.q.c.QuartzScheduler - [shutdown,666] - Scheduler IntelliSmartScheduler_$_VXer0NeXcitEd-moRphiNe.local1627791199657 shutting down.
+12:38:12.774 [SpringContextShutdownHook] INFO  o.q.c.QuartzScheduler - [standby,585] - Scheduler IntelliSmartScheduler_$_VXer0NeXcitEd-moRphiNe.local1627791199657 paused.
+12:38:12.775 [SpringContextShutdownHook] INFO  o.q.c.QuartzScheduler - [shutdown,740] - Scheduler IntelliSmartScheduler_$_VXer0NeXcitEd-moRphiNe.local1627791199657 shutdown complete.
+12:38:12.776 [SpringContextShutdownHook] INFO  sys-user - [shutdownSpringSessionValidationScheduler,45] - ====关闭会话验证任务====
+12:38:12.779 [SpringContextShutdownHook] INFO  sys-user - [shutdownAsyncManager,62] - ====关闭后台任务任务线程池====
+12:38:12.780 [SpringContextShutdownHook] INFO  sys-user - [shutdownEhCacheManager,75] - ====关闭缓存====
+12:38:12.801 [SpringContextShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,2043] - {dataSource-1} closing ...
+12:38:12.803 [SpringContextShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,2116] - {dataSource-1} closed
+12:43:17.704 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.0.22.Final
+12:43:17.726 [restartedMain] INFO  c.i.IntelliSmartApplication - [logStarting,55] - Starting IntelliSmartApplication on VXer0NeXcitEd-moRphiNe.local with PID 2712 (/Users/kevin/Documents/000-Develop/projects/intellismart/is-admin/target/classes started by kevin in /Users/kevin/Documents/000-Develop/projects/intellismart)
+12:43:17.727 [restartedMain] INFO  c.i.IntelliSmartApplication - [logStartupProfileInfo,655] - The following profiles are active: druid
+12:43:19.564 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-authCache]
+12:43:20.253 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [loginRecordCache]
+12:43:20.944 [restartedMain] INFO  c.a.d.p.DruidDataSource - [init,990] - {dataSource-1} inited
+12:43:21.079 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+12:43:21.082 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+12:43:21.082 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+12:43:21.082 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+12:43:21.083 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+12:43:21.083 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+12:43:21.083 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+12:43:21.083 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+12:43:21.083 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+12:43:21.171 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-userCache]
+12:43:21.531 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-80"]
+12:43:21.532 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+12:43:21.533 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.41]
+12:43:21.617 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+12:43:21.893 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+12:43:21.899 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+12:43:21.904 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+12:43:21.908 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+12:43:21.913 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+12:43:21.917 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+12:43:21.922 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+12:43:21.928 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+12:43:21.933 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+12:43:21.938 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+12:43:22.075 [restartedMain] INFO  o.q.i.StdSchedulerFactory - [instantiate,1220] - Using default implementation for ThreadExecutor
+12:43:22.092 [restartedMain] INFO  o.q.c.SchedulerSignalerImpl - [<init>,61] - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+12:43:22.092 [restartedMain] INFO  o.q.c.QuartzScheduler - [<init>,229] - Quartz Scheduler v.2.3.2 created.
+12:43:22.101 [restartedMain] INFO  o.q.c.QuartzScheduler - [initialize,294] - Scheduler meta-data: Quartz Scheduler (v2.3.2) 'IntelliSmartScheduler' with instanceId 'VXer0NeXcitEd-moRphiNe.local1627793002078'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 20 threads.
+  Using job-store 'org.springframework.scheduling.quartz.LocalDataSourceJobStore' - which supports persistence. and is clustered.
+
+12:43:22.102 [restartedMain] INFO  o.q.i.StdSchedulerFactory - [instantiate,1374] - Quartz scheduler 'IntelliSmartScheduler' initialized from an externally provided properties instance.
+12:43:22.102 [restartedMain] INFO  o.q.i.StdSchedulerFactory - [instantiate,1378] - Quartz scheduler version: 2.3.2
+12:43:22.104 [restartedMain] INFO  o.q.c.QuartzScheduler - [setJobFactory,2293] - JobFactory set to: org.springframework.scheduling.quartz.AdaptableJobFactory@1236e06c
+12:43:23.781 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-80"]
+12:43:23.812 [restartedMain] INFO  c.i.IntelliSmartApplication - [logStarted,61] - Started IntelliSmartApplication in 6.515 seconds (JVM running for 7.498)
+12:43:24.823 [Quartz Scheduler [IntelliSmartScheduler]] INFO  o.q.c.QuartzScheduler - [start,547] - Scheduler IntelliSmartScheduler_$_VXer0NeXcitEd-moRphiNe.local1627793002078 started.
+12:43:55.600 [http-nio-80-exec-1] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+12:43:55.628 [http-nio-80-exec-1] INFO  o.a.s.s.m.AbstractValidatingSessionManager - [enableSessionValidation,233] - Enabling session validation scheduler...
+12:43:55.637 [http-nio-80-exec-1] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [shiro-activeSessionCache]
+12:43:55.995 [http-nio-80-exec-2] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+12:43:56.630 [schedule-pool-1] INFO  c.i.f.s.w.s.OnlineWebSessionManager - [validateSessions,100] - invalidation sessions...
+12:43:56.641 [schedule-pool-1] INFO  c.i.f.s.w.s.OnlineWebSessionManager - [validateSessions,165] - Finished invalidation session. No sessions were stopped.
+12:44:00.581 [schedule-pool-2] INFO  sys-user - [run,109] - [127.0.0.1]内网IP[admin][Success][登录成功]
+12:44:00.655 [http-nio-80-exec-23] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+12:44:00.656 [http-nio-80-exec-23] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+12:44:00.656 [http-nio-80-exec-23] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+12:44:00.657 [http-nio-80-exec-23] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+12:44:00.657 [http-nio-80-exec-23] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+12:44:00.658 [http-nio-80-exec-23] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+12:53:56.616 [schedule-pool-1] INFO  c.i.f.s.w.s.OnlineWebSessionManager - [validateSessions,100] - invalidation sessions...
+12:53:56.621 [schedule-pool-1] INFO  c.i.f.s.w.s.OnlineWebSessionManager - [validateSessions,165] - Finished invalidation session. No sessions were stopped.
+13:03:56.611 [schedule-pool-2] INFO  c.i.f.s.w.s.OnlineWebSessionManager - [validateSessions,100] - invalidation sessions...
+13:03:56.616 [schedule-pool-2] INFO  c.i.f.s.w.s.OnlineWebSessionManager - [validateSessions,165] - Finished invalidation session. No sessions were stopped.
+13:13:56.627 [schedule-pool-4] INFO  c.i.f.s.w.s.OnlineWebSessionManager - [validateSessions,100] - invalidation sessions...
+13:13:56.636 [schedule-pool-4] INFO  c.i.f.s.w.s.OnlineWebSessionManager - [validateSessions,165] - Finished invalidation session. No sessions were stopped.
+13:23:56.632 [schedule-pool-3] INFO  c.i.f.s.w.s.OnlineWebSessionManager - [validateSessions,100] - invalidation sessions...
+13:23:56.636 [schedule-pool-3] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-userCache]
+13:23:56.645 [schedule-pool-3] INFO  c.i.f.s.w.s.OnlineWebSessionManager - [validateSessions,165] - Finished invalidation session. [1] sessions were stopped.
+13:26:50.782 [SpringContextShutdownHook] INFO  o.q.c.QuartzScheduler - [standby,585] - Scheduler IntelliSmartScheduler_$_VXer0NeXcitEd-moRphiNe.local1627793002078 paused.
+13:26:50.788 [SpringContextShutdownHook] INFO  o.q.c.QuartzScheduler - [shutdown,666] - Scheduler IntelliSmartScheduler_$_VXer0NeXcitEd-moRphiNe.local1627793002078 shutting down.
+13:26:50.788 [SpringContextShutdownHook] INFO  o.q.c.QuartzScheduler - [standby,585] - Scheduler IntelliSmartScheduler_$_VXer0NeXcitEd-moRphiNe.local1627793002078 paused.
+13:26:50.789 [SpringContextShutdownHook] INFO  o.q.c.QuartzScheduler - [shutdown,740] - Scheduler IntelliSmartScheduler_$_VXer0NeXcitEd-moRphiNe.local1627793002078 shutdown complete.
+13:26:50.789 [SpringContextShutdownHook] INFO  sys-user - [shutdownSpringSessionValidationScheduler,45] - ====关闭会话验证任务====
+13:26:50.791 [SpringContextShutdownHook] INFO  sys-user - [shutdownAsyncManager,62] - ====关闭后台任务任务线程池====
+13:26:50.792 [SpringContextShutdownHook] INFO  sys-user - [shutdownEhCacheManager,75] - ====关闭缓存====
+13:26:50.807 [SpringContextShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,2043] - {dataSource-1} closing ...
+13:26:50.811 [SpringContextShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,2116] - {dataSource-1} closed
+13:27:40.366 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.0.22.Final
+13:27:40.383 [restartedMain] INFO  c.i.IntelliSmartApplication - [logStarting,55] - Starting IntelliSmartApplication on VXer0NeXcitEd-moRphiNe.local with PID 3164 (/Users/kevin/Documents/000-Develop/projects/intellismart/is-admin/target/classes started by kevin in /Users/kevin/Documents/000-Develop/projects/intellismart)
+13:27:40.384 [restartedMain] INFO  c.i.IntelliSmartApplication - [logStartupProfileInfo,655] - The following profiles are active: druid
+13:27:42.085 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-authCache]
+13:27:42.749 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [loginRecordCache]
+13:27:43.452 [restartedMain] INFO  c.a.d.p.DruidDataSource - [init,990] - {dataSource-1} inited
+13:27:43.604 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+13:27:43.607 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+13:27:43.608 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+13:27:43.608 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+13:27:43.608 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+13:27:43.609 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+13:27:43.609 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+13:27:43.609 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+13:27:43.609 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+13:27:43.707 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-userCache]
+13:27:44.041 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-80"]
+13:27:44.041 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+13:27:44.042 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.41]
+13:27:44.115 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+13:27:44.362 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+13:27:44.368 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+13:27:44.372 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+13:27:44.376 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+13:27:44.381 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+13:27:44.385 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+13:27:44.389 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+13:27:44.395 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+13:27:44.402 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+13:27:44.406 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+13:27:44.537 [restartedMain] INFO  o.q.i.StdSchedulerFactory - [instantiate,1220] - Using default implementation for ThreadExecutor
+13:27:44.554 [restartedMain] INFO  o.q.c.SchedulerSignalerImpl - [<init>,61] - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+13:27:44.554 [restartedMain] INFO  o.q.c.QuartzScheduler - [<init>,229] - Quartz Scheduler v.2.3.2 created.
+13:27:44.561 [restartedMain] INFO  o.q.c.QuartzScheduler - [initialize,294] - Scheduler meta-data: Quartz Scheduler (v2.3.2) 'IntelliSmartScheduler' with instanceId 'VXer0NeXcitEd-moRphiNe.local1627795664539'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 20 threads.
+  Using job-store 'org.springframework.scheduling.quartz.LocalDataSourceJobStore' - which supports persistence. and is clustered.
+
+13:27:44.562 [restartedMain] INFO  o.q.i.StdSchedulerFactory - [instantiate,1374] - Quartz scheduler 'IntelliSmartScheduler' initialized from an externally provided properties instance.
+13:27:44.562 [restartedMain] INFO  o.q.i.StdSchedulerFactory - [instantiate,1378] - Quartz scheduler version: 2.3.2
+13:27:44.563 [restartedMain] INFO  o.q.c.QuartzScheduler - [setJobFactory,2293] - JobFactory set to: org.springframework.scheduling.quartz.AdaptableJobFactory@38a996d2
+13:27:46.383 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-80"]
+13:27:46.419 [restartedMain] INFO  c.i.IntelliSmartApplication - [logStarted,61] - Started IntelliSmartApplication in 6.374 seconds (JVM running for 7.268)
+13:27:47.425 [Quartz Scheduler [IntelliSmartScheduler]] INFO  o.q.c.QuartzScheduler - [start,547] - Scheduler IntelliSmartScheduler_$_VXer0NeXcitEd-moRphiNe.local1627795664539 started.
+13:27:47.973 [http-nio-80-exec-1] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+13:27:48.000 [http-nio-80-exec-1] INFO  o.a.s.s.m.AbstractValidatingSessionManager - [enableSessionValidation,233] - Enabling session validation scheduler...
+13:27:48.006 [http-nio-80-exec-1] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [shiro-activeSessionCache]
+13:27:48.313 [http-nio-80-exec-2] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+13:27:49.006 [schedule-pool-1] INFO  c.i.f.s.w.s.OnlineWebSessionManager - [validateSessions,100] - invalidation sessions...
+13:27:49.015 [schedule-pool-1] INFO  c.i.f.s.w.s.OnlineWebSessionManager - [validateSessions,165] - Finished invalidation session. No sessions were stopped.
+13:27:53.811 [schedule-pool-2] INFO  sys-user - [run,109] - [127.0.0.1]内网IP[admin][Success][登录成功]
+13:27:53.887 [http-nio-80-exec-23] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+13:27:53.888 [http-nio-80-exec-23] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+13:27:53.888 [http-nio-80-exec-23] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+13:27:53.888 [http-nio-80-exec-23] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+13:27:53.889 [http-nio-80-exec-23] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+13:27:53.889 [http-nio-80-exec-23] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+13:37:48.995 [schedule-pool-1] INFO  c.i.f.s.w.s.OnlineWebSessionManager - [validateSessions,100] - invalidation sessions...
+13:37:49.005 [schedule-pool-1] INFO  c.i.f.s.w.s.OnlineWebSessionManager - [validateSessions,165] - Finished invalidation session. No sessions were stopped.
+18:06:25.322 [schedule-pool-2] INFO  c.i.f.s.w.s.OnlineWebSessionManager - [validateSessions,100] - invalidation sessions...
+18:06:25.338 [schedule-pool-2] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-userCache]
+18:06:25.350 [schedule-pool-2] INFO  c.i.f.s.w.s.OnlineWebSessionManager - [validateSessions,165] - Finished invalidation session. [1] sessions were stopped.
+18:16:25.291 [schedule-pool-4] INFO  c.i.f.s.w.s.OnlineWebSessionManager - [validateSessions,100] - invalidation sessions...
+18:16:25.298 [schedule-pool-4] INFO  c.i.f.s.w.s.OnlineWebSessionManager - [validateSessions,165] - Finished invalidation session. No sessions were stopped.
+18:26:25.359 [schedule-pool-3] INFO  c.i.f.s.w.s.OnlineWebSessionManager - [validateSessions,100] - invalidation sessions...
+18:26:25.365 [schedule-pool-3] INFO  c.i.f.s.w.s.OnlineWebSessionManager - [validateSessions,165] - Finished invalidation session. No sessions were stopped.
+18:36:25.337 [schedule-pool-1] INFO  c.i.f.s.w.s.OnlineWebSessionManager - [validateSessions,100] - invalidation sessions...
+18:36:25.343 [schedule-pool-1] INFO  c.i.f.s.w.s.OnlineWebSessionManager - [validateSessions,165] - Finished invalidation session. No sessions were stopped.
+18:46:25.316 [schedule-pool-5] INFO  c.i.f.s.w.s.OnlineWebSessionManager - [validateSessions,100] - invalidation sessions...
+18:46:25.326 [schedule-pool-5] INFO  c.i.f.s.w.s.OnlineWebSessionManager - [validateSessions,165] - Finished invalidation session. No sessions were stopped.
+18:56:25.268 [schedule-pool-2] INFO  c.i.f.s.w.s.OnlineWebSessionManager - [validateSessions,100] - invalidation sessions...
+18:56:25.280 [schedule-pool-2] INFO  c.i.f.s.w.s.OnlineWebSessionManager - [validateSessions,165] - Finished invalidation session. No sessions were stopped.
+19:06:25.259 [schedule-pool-6] INFO  c.i.f.s.w.s.OnlineWebSessionManager - [validateSessions,100] - invalidation sessions...
+19:06:25.270 [schedule-pool-6] INFO  c.i.f.s.w.s.OnlineWebSessionManager - [validateSessions,165] - Finished invalidation session. No sessions were stopped.
+19:16:25.233 [schedule-pool-4] INFO  c.i.f.s.w.s.OnlineWebSessionManager - [validateSessions,100] - invalidation sessions...
+19:16:25.240 [schedule-pool-4] INFO  c.i.f.s.w.s.OnlineWebSessionManager - [validateSessions,165] - Finished invalidation session. No sessions were stopped.
+19:56:43.614 [schedule-pool-7] INFO  c.i.f.s.w.s.OnlineWebSessionManager - [validateSessions,100] - invalidation sessions...
+19:56:43.619 [schedule-pool-7] INFO  c.i.f.s.w.s.OnlineWebSessionManager - [validateSessions,165] - Finished invalidation session. No sessions were stopped.
+20:39:16.496 [schedule-pool-3] INFO  c.i.f.s.w.s.OnlineWebSessionManager - [validateSessions,100] - invalidation sessions...
+20:39:16.568 [schedule-pool-3] INFO  c.i.f.s.w.s.OnlineWebSessionManager - [validateSessions,165] - Finished invalidation session. No sessions were stopped.
+21:21:07.117 [schedule-pool-8] INFO  c.i.f.s.w.s.OnlineWebSessionManager - [validateSessions,100] - invalidation sessions...
+21:21:07.128 [schedule-pool-8] INFO  c.i.f.s.w.s.OnlineWebSessionManager - [validateSessions,165] - Finished invalidation session. No sessions were stopped.
+21:31:07.107 [schedule-pool-1] INFO  c.i.f.s.w.s.OnlineWebSessionManager - [validateSessions,100] - invalidation sessions...
+21:31:07.119 [schedule-pool-1] INFO  c.i.f.s.w.s.OnlineWebSessionManager - [validateSessions,165] - Finished invalidation session. No sessions were stopped.
+22:15:47.415 [schedule-pool-9] INFO  c.i.f.s.w.s.OnlineWebSessionManager - [validateSessions,100] - invalidation sessions...
+22:15:47.500 [schedule-pool-9] INFO  c.i.f.s.w.s.OnlineWebSessionManager - [validateSessions,165] - Finished invalidation session. No sessions were stopped.
+22:53:35.055 [http-nio-80-exec-29] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+22:53:36.744 [http-nio-80-exec-5] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+22:53:40.144 [schedule-pool-10] INFO  sys-user - [run,109] - [127.0.0.1]内网IP[admin][Error][验证码错误]
+22:53:44.223 [schedule-pool-11] INFO  sys-user - [run,109] - [127.0.0.1]内网IP[admin][Success][登录成功]
+22:53:44.248 [http-nio-80-exec-5] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+22:53:44.248 [http-nio-80-exec-5] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+22:53:44.249 [http-nio-80-exec-5] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+22:53:44.250 [http-nio-80-exec-5] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+22:53:44.251 [http-nio-80-exec-5] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+22:53:44.251 [http-nio-80-exec-5] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+22:53:49.756 [http-nio-80-exec-3] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+22:53:52.160 [http-nio-80-exec-17] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+22:54:10.991 [schedule-pool-6] INFO  c.i.f.s.w.s.OnlineWebSessionManager - [validateSessions,100] - invalidation sessions...
+22:54:10.997 [schedule-pool-6] INFO  c.i.f.s.w.s.OnlineWebSessionManager - [validateSessions,165] - Finished invalidation session. No sessions were stopped.
+23:04:10.980 [schedule-pool-13] INFO  c.i.f.s.w.s.OnlineWebSessionManager - [validateSessions,100] - invalidation sessions...
+23:04:10.986 [schedule-pool-13] INFO  c.i.f.s.w.s.OnlineWebSessionManager - [validateSessions,165] - Finished invalidation session. No sessions were stopped.
+23:14:05.263 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.0.22.Final
+23:14:05.286 [restartedMain] INFO  c.i.IntelliSmartApplication - [logStarting,55] - Starting IntelliSmartApplication on VXer0NeXcitEd-moRphiNe.local with PID 5366 (/Users/kevin/Documents/000-Develop/projects/intellismart/is-admin/target/classes started by kevin in /Users/kevin/Documents/000-Develop/projects/intellismart)
+23:14:05.287 [restartedMain] INFO  c.i.IntelliSmartApplication - [logStartupProfileInfo,655] - The following profiles are active: druid
+23:14:07.184 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-authCache]
+23:14:07.925 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [loginRecordCache]
+23:14:08.834 [restartedMain] INFO  c.a.d.p.DruidDataSource - [init,990] - {dataSource-1} inited
+23:14:08.993 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+23:14:08.996 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+23:14:08.996 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+23:14:08.996 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+23:14:08.996 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+23:14:08.997 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+23:14:08.997 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+23:14:08.997 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+23:14:08.997 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+23:14:09.103 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-userCache]
+23:14:09.449 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-80"]
+23:14:09.449 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+23:14:09.449 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.41]
+23:14:09.531 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+23:14:09.786 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+23:14:09.792 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+23:14:09.797 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+23:14:09.802 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+23:14:09.807 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+23:14:09.813 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+23:14:09.819 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+23:14:09.826 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+23:14:09.832 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+23:14:09.838 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+23:14:09.975 [restartedMain] INFO  o.q.i.StdSchedulerFactory - [instantiate,1220] - Using default implementation for ThreadExecutor
+23:14:09.989 [restartedMain] INFO  o.q.c.SchedulerSignalerImpl - [<init>,61] - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+23:14:09.989 [restartedMain] INFO  o.q.c.QuartzScheduler - [<init>,229] - Quartz Scheduler v.2.3.2 created.
+23:14:09.997 [restartedMain] INFO  o.q.c.QuartzScheduler - [initialize,294] - Scheduler meta-data: Quartz Scheduler (v2.3.2) 'IntelliSmartScheduler' with instanceId 'VXer0NeXcitEd-moRphiNe.local1627830849978'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 20 threads.
+  Using job-store 'org.springframework.scheduling.quartz.LocalDataSourceJobStore' - which supports persistence. and is clustered.
+
+23:14:09.997 [restartedMain] INFO  o.q.i.StdSchedulerFactory - [instantiate,1374] - Quartz scheduler 'IntelliSmartScheduler' initialized from an externally provided properties instance.
+23:14:09.997 [restartedMain] INFO  o.q.i.StdSchedulerFactory - [instantiate,1378] - Quartz scheduler version: 2.3.2
+23:14:09.999 [restartedMain] INFO  o.q.c.QuartzScheduler - [setJobFactory,2293] - JobFactory set to: org.springframework.scheduling.quartz.AdaptableJobFactory@5a65a45f
+23:14:10.961 [schedule-pool-7] INFO  c.i.f.s.w.s.OnlineWebSessionManager - [validateSessions,100] - invalidation sessions...
+23:14:10.968 [schedule-pool-7] INFO  c.i.f.s.w.s.OnlineWebSessionManager - [validateSessions,165] - Finished invalidation session. No sessions were stopped.
+23:14:11.728 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-80"]
+23:14:11.740 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Pausing ProtocolHandler ["http-nio-80"]
+23:14:11.740 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+23:14:11.745 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Stopping ProtocolHandler ["http-nio-80"]
+23:14:11.746 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Destroying ProtocolHandler ["http-nio-80"]
+23:14:11.759 [restartedMain] INFO  o.q.c.QuartzScheduler - [shutdown,666] - Scheduler IntelliSmartScheduler_$_VXer0NeXcitEd-moRphiNe.local1627830849978 shutting down.
+23:14:11.759 [restartedMain] INFO  o.q.c.QuartzScheduler - [standby,585] - Scheduler IntelliSmartScheduler_$_VXer0NeXcitEd-moRphiNe.local1627830849978 paused.
+23:14:11.759 [restartedMain] INFO  o.q.c.QuartzScheduler - [shutdown,740] - Scheduler IntelliSmartScheduler_$_VXer0NeXcitEd-moRphiNe.local1627830849978 shutdown complete.
+23:14:11.759 [restartedMain] INFO  sys-user - [shutdownAsyncManager,62] - ====关闭后台任务任务线程池====
+23:14:11.761 [restartedMain] INFO  sys-user - [shutdownEhCacheManager,75] - ====关闭缓存====
+23:14:11.772 [restartedMain] INFO  c.a.d.p.DruidDataSource - [close,2043] - {dataSource-1} closing ...
+23:14:11.777 [restartedMain] INFO  c.a.d.p.DruidDataSource - [close,2116] - {dataSource-1} closed
+23:19:20.055 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.0.22.Final
+23:19:20.084 [restartedMain] INFO  c.i.IntelliSmartApplication - [logStarting,55] - Starting IntelliSmartApplication on VXer0NeXcitEd-moRphiNe.local with PID 5481 (/Users/kevin/Documents/000-Develop/projects/intellismart/is-admin/target/classes started by kevin in /Users/kevin/Documents/000-Develop/projects/intellismart)
+23:19:20.087 [restartedMain] INFO  c.i.IntelliSmartApplication - [logStartupProfileInfo,655] - The following profiles are active: druid
+23:19:21.866 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-authCache]
+23:19:22.587 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [loginRecordCache]
+23:19:23.358 [restartedMain] INFO  c.a.d.p.DruidDataSource - [init,990] - {dataSource-1} inited
+23:19:23.469 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+23:19:23.472 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+23:19:23.473 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+23:19:23.473 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+23:19:23.473 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+23:19:23.474 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+23:19:23.474 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+23:19:23.474 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+23:19:23.475 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+23:19:23.590 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-userCache]
+23:19:23.963 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-80"]
+23:19:23.964 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+23:19:23.964 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.41]
+23:19:24.038 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+23:19:24.310 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+23:19:24.316 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+23:19:24.323 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+23:19:24.330 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+23:19:24.338 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+23:19:24.345 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+23:19:24.350 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+23:19:24.358 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+23:19:24.365 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+23:19:24.374 [restartedMain] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+23:19:24.532 [restartedMain] INFO  o.q.i.StdSchedulerFactory - [instantiate,1220] - Using default implementation for ThreadExecutor
+23:19:24.551 [restartedMain] INFO  o.q.c.SchedulerSignalerImpl - [<init>,61] - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+23:19:24.551 [restartedMain] INFO  o.q.c.QuartzScheduler - [<init>,229] - Quartz Scheduler v.2.3.2 created.
+23:19:24.559 [restartedMain] INFO  o.q.c.QuartzScheduler - [initialize,294] - Scheduler meta-data: Quartz Scheduler (v2.3.2) 'IntelliSmartScheduler' with instanceId 'VXer0NeXcitEd-moRphiNe.local1627831164538'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 20 threads.
+  Using job-store 'org.springframework.scheduling.quartz.LocalDataSourceJobStore' - which supports persistence. and is clustered.
+
+23:19:24.560 [restartedMain] INFO  o.q.i.StdSchedulerFactory - [instantiate,1374] - Quartz scheduler 'IntelliSmartScheduler' initialized from an externally provided properties instance.
+23:19:24.560 [restartedMain] INFO  o.q.i.StdSchedulerFactory - [instantiate,1378] - Quartz scheduler version: 2.3.2
+23:19:24.562 [restartedMain] INFO  o.q.c.QuartzScheduler - [setJobFactory,2293] - JobFactory set to: org.springframework.scheduling.quartz.AdaptableJobFactory@a08b7f3
+23:19:26.487 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-80"]
+23:19:26.517 [restartedMain] INFO  c.i.IntelliSmartApplication - [logStarted,61] - Started IntelliSmartApplication in 6.959 seconds (JVM running for 9.056)
+23:19:27.555 [Quartz Scheduler [IntelliSmartScheduler]] INFO  o.q.c.QuartzScheduler - [start,547] - Scheduler IntelliSmartScheduler_$_VXer0NeXcitEd-moRphiNe.local1627831164538 started.
+23:19:35.042 [http-nio-80-exec-1] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+23:19:35.087 [http-nio-80-exec-1] INFO  o.a.s.s.m.AbstractValidatingSessionManager - [enableSessionValidation,233] - Enabling session validation scheduler...
+23:19:35.098 [http-nio-80-exec-1] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [shiro-activeSessionCache]
+23:19:35.556 [http-nio-80-exec-2] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+23:19:36.089 [schedule-pool-1] INFO  c.i.f.s.w.s.OnlineWebSessionManager - [validateSessions,100] - invalidation sessions...
+23:19:36.097 [schedule-pool-1] INFO  c.i.f.s.w.s.OnlineWebSessionManager - [validateSessions,165] - Finished invalidation session. No sessions were stopped.
+23:19:40.258 [schedule-pool-2] INFO  sys-user - [run,109] - [127.0.0.1]内网IP[admin][Success][登录成功]
+23:19:40.362 [http-nio-80-exec-23] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+23:19:40.362 [http-nio-80-exec-23] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+23:19:40.362 [http-nio-80-exec-23] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+23:19:40.362 [http-nio-80-exec-23] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+23:19:40.363 [http-nio-80-exec-23] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+23:19:40.363 [http-nio-80-exec-23] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+23:19:44.907 [http-nio-80-exec-30] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
