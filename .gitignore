@@ -1,0 +1,8 @@
+/.idea/
+/is-system/target/
+/is-quartz/target/
+/is-generator/target/
+/is-framework/target/
+/is-common/target/
+/is-admin/target/
+intellismart.iml

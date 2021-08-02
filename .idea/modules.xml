@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/intellismart.iml" filepath="$PROJECT_DIR$/intellismart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/is-admin/is-admin.iml" filepath="$PROJECT_DIR$/is-admin/is-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/is-common/is-common.iml" filepath="$PROJECT_DIR$/is-common/is-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/is-framework/is-framework.iml" filepath="$PROJECT_DIR$/is-framework/is-framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/is-generator/is-generator.iml" filepath="$PROJECT_DIR$/is-generator/is-generator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/is-quartz/is-quartz.iml" filepath="$PROJECT_DIR$/is-quartz/is-quartz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/is-system/is-system.iml" filepath="$PROJECT_DIR$/is-system/is-system.iml" />
+    </modules>
+  </component>
+</project>
